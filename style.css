@@ -59,7 +59,7 @@ h1{
     display: flex;
     justify-content: space-between;
 }
-.trigger-container > button[type='submit']{
+.trigger-container > button[type='button']{
     background-color: var(--primary-focus);
     color: var(--color);
     padding:8px 15px;
@@ -73,6 +73,6 @@ h1{
     font-style: normal;
     font-weight: 500;
 }
-.intrest{
+#intrest{
     color: var(--primary-focus);
 }
