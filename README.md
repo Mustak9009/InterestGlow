@@ -4,7 +4,7 @@
 
 <p>This guide provides an easy-to-follow explanation of the formula used to calculate simple interest. The fundamental equation is:</p>
 
-\[ I = P \times R \times T \]
+# I = P * R * T
 
 <p>where:</p>
 <ul>
