@@ -1,4 +1,4 @@
-# Formula for Calculating Simple Interest
+# Calculating Simple Interest
 
 ## Description
 
@@ -14,4 +14,3 @@
   <li><b>T</b> is the time period</li>
 </ul>
 
-<p>This information is ideal for students, educators, and anyone looking to understand and apply the basics of interest calculation.</p>
