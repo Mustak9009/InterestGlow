@@ -8,9 +8,22 @@
 </head>
 
 <body>
-    <div>
-        <main>
-            
+    <div class="container">
+        <h1>Find: Simple Intrest</h1>
+        <main class="main-container">
+            <form>
+                <div class="input-container">
+                    <input type="text" placeholder="Total amount" name="principal" id="principal">
+                    <input type="text" placeholder="Rate of IN." name="interest_rate" id="interest_rate">
+                    <input type="text" placeholder="Time" name="time" id="time">
+                </div>
+                <div class="trigger-container">
+                    <button type="submit">Calculate</button>
+                    <p>Ans: 
+                        <span class="intrest">0</span>
+                    </p>
+                </div>
+            </form>
         </main>
     </div>
     <script src="./index.js"></script>
