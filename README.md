@@ -6,7 +6,7 @@
 
 # I = P * R * T
 
-<p>where:</p>
+<b>where:</b>
 <ul>
   <li><b>I</b> is the interest</li>
   <li><b>P</b> is the principal amount</li>
